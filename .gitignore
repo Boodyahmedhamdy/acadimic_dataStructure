@@ -1,0 +1,17 @@
+# for the main dir 
+# all goes from here
+
+# we only need the source code
+# ---------------------------
+# unused files in C program
+projects/usingC/**/bin
+projects/usingC/**/obj
+projects/usingC/**/*.cbp
+
+# ---------------------------
+# unused files in C++ programs
+projects/usingC++/**/bin
+projects/usingC++/**/obj
+projects/usingC++/**/*.layout
+projects/usingC++/**/*.depend
+projects/usingC++/**/*.cbp

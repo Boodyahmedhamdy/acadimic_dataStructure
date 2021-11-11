@@ -7,6 +7,7 @@
 projects/usingC/**/bin
 projects/usingC/**/obj
 projects/usingC/**/*.cbp
+projects/usingC/**/*.depend
 
 # ---------------------------
 # unused files in C++ programs
